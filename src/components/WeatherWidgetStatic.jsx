@@ -1,4 +1,5 @@
 //WeatherWidgetStatic.jsx
+//TBD comment f/git upload, delete whenever...
 
 import { useEffect } from 'react';
 
